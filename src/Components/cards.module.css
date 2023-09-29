@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Cardo:400,700|Oswald");
+
+.cont{
+    font-family: 'Cardo', serif;
+}
+   
+   h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+   }
+   
