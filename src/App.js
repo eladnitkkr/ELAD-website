@@ -14,7 +14,7 @@ const App = () => {
       <Carousel />
       </div>
       <div id = "Members">
-      <h2> Members </h2>
+      <h2> Memberss </h2>
       <div class = "cards">
       {cardsData.map((card, index) => (
         <Card
