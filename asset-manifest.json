@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ELAD-website/static/css/main.03539276.css",
+    "main.css": "/ELAD-website/static/css/main.3068ad73.css",
     "main.js": "/ELAD-website/static/js/main.7442b6cb.js",
     "static/js/787.28cb0dcd.chunk.js": "/ELAD-website/static/js/787.28cb0dcd.chunk.js",
     "static/media/slick.svg": "/ELAD-website/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -8,12 +8,12 @@
     "static/media/slick.ttf": "/ELAD-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/ELAD-website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ELAD-website/index.html",
-    "main.03539276.css.map": "/ELAD-website/static/css/main.03539276.css.map",
+    "main.3068ad73.css.map": "/ELAD-website/static/css/main.3068ad73.css.map",
     "main.7442b6cb.js.map": "/ELAD-website/static/js/main.7442b6cb.js.map",
     "787.28cb0dcd.chunk.js.map": "/ELAD-website/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03539276.css",
+    "static/css/main.3068ad73.css",
     "static/js/main.7442b6cb.js"
   ]
 }
